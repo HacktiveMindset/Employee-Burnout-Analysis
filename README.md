@@ -75,7 +75,7 @@ The next steps in this project will include:
 
 1. Clone the repository to your local machine using Git:
     ```
-    git clone https://github.com/yourusername/Employee-Burnout-Analysis.git
+    git clone https://github.com/HacktiveMindset/Employee-Burnout-Analysis.git
     ```
    
 2. Install the required dependencies. You can do this by running:
